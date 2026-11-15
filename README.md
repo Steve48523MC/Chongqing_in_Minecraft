@@ -1,3 +1,4 @@
+Introduce:
 <a id="english"></a>
 **English(US)** | [简体中文](#chinese) | [日本語](#japanese)
 
@@ -95,3 +96,28 @@ It is a creative blocky tribute to the "Mountain City", blending the charm of Ch
 
 *   **Minecraft Java Edition** (1.16.5 以降)。
 *   **MODは不要です！** ワールドをロードするだけでプレイできます。
+
+### Game Screenshots /游戏截图/プレイ画面
+<div align="center">
+  <img src="1.png" width="45%">
+  <img src="2.png" width="45%">
+</div>
+<div align="center">
+  <img src="3.png" width="45%">
+  <img src="4.png" width="45%">
+</div>
+<div align="center">
+  <img src="5.png" width="45%">
+  <img src="6.png" width="45%">
+</div>
+<div align="center">
+  <img src="7.png" width="45%">
+  <img src="8.png" width="45%">
+</div>
+<div align="center">
+  <img src="9.png" width="45%">
+  <img src="10.png" width="45%">
+</div>
+<div align="center">
+  <img src="11.png" width="45%">
+</div>
