@@ -1,6 +1,6 @@
-Introduce:
+Introduction / 项目介绍 / プロジェクト紹介:
 <a id="english"></a>
-**English(US)** | [简体中文](#chinese) | [日本語](#japanese)
+**English(US)** | [简体中文](#chinese) | [日本語](#japanese) | [Game Screenshots /游戏截图/プレイ画面](#Screenshots)
 
 ---
 
@@ -97,6 +97,7 @@ It is a creative blocky tribute to the "Mountain City", blending the charm of Ch
 *   **Minecraft Java Edition** (1.16.5 以降)。
 *   **MODは不要です！** ワールドをロードするだけでプレイできます。
 
+<a id="Screenshots"></a>
 ### Game Screenshots /游戏截图/プレイ画面
 <div align="center">
   <img src="1.png" width="45%">
