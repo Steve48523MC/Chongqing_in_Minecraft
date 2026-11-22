@@ -9,7 +9,7 @@
 - **EN**: 
   1. Requires **Minecraft Java Edition 1.16.5 or later**.
   2. Ensure the `level.dat` file is directly inside the unzipped folder (avoid nested folders).
-  3. It is recommended to use the "Vanilla" (原版) version.
+  3. It is recommended to use the "Vanilla" version.
 - **ZH**：
   1. 请务必使用 **Minecraft Java 版 1.16.5 或更高版本**。
   2. 解压后，请确保 `level.dat` 文件直接位于文件夹的第一层（避免出现“文件夹套文件夹”导致游戏无法识别）。
